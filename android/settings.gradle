@@ -1,0 +1,3 @@
+rootProject.name = 'animatelandingpage'
+
+include ':app'
